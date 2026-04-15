@@ -1,0 +1,524 @@
+Soil Type (Region),pH,N,P,K,Humidity (%),Temp (�C),Best Crops,Fertilizer Recommendation
+"Volcanic Andosols (NW, Mt. Cameroon)",5.2,85,45,50,82,22,"Coffee, Cocoa, Plantain, Irish Potato",Urea + DAP + Lime
+"Ferralsols (Centre, South forest zone)",5.8,65,35,40,78,27,"Cassava, Maize, Groundnuts, Pineapple",NPK 15?15?15
+"Savanna soils (North, Adamawa)",6.7,55,30,35,65,32,"Sorghum, Millet, Cotton, Groundnuts",DAP + MOP
+"Hydromorphic soils (Coastal, Littoral)",5.1,90,48,60,88,26,"Rice, Oil Palm, Sugarcane",Urea + DAP + Lime
+Alluvial soils (River valleys),6.3,70,40,45,77,25,"Vegetables, Maize, Beans",Balanced NPK
+Lateritic soils (East),5.6,55,28,35,72,27,"Cassava, Yam, Plantain",Urea + DAP
+Sandy soils (Far North),6.2,45,25,30,60,34,"Onion, Sorghum, Millet",DAP + MOP
+Clay soils (Western Highlands),5.7,75,42,50,83,21,"Maize, Beans, Irish Potato",Urea + DAP + MOP
+Black soils (Mbam valley),6.5,80,50,55,79,26,"Rice, Maize, Vegetables",Urea + MOP
+Peaty soils (Southwest wetlands),5,70,38,45,90,24,"Oqil Palm, Rice",Urea + DAP + Lime
+Volcanic Andosols (NW),5.3,82,44,52,83,22,"Coffee, Cocoa",Urea + DAP + Lime
+Volcanic Andosols (NW),5.1,88,46,50,81,21,Irish Potato,Urea + DAP + MOP
+Ferralsols (Centre),5.7,63,34,39,78,27,Cassava,NPK 15?15?15
+Ferralsols (Centre),5.9,70,36,42,76,26,Maize,Urea + DAP
+Savanna soils (Adamawa),6.8,58,32,36,67,31,Sorghum,DAP + MOP
+Savanna soils (Adamawa),6.6,62,30,34,65,33,Cotton,Urea + MOP
+Hydromorphic (Littoral),5,92,47,61,89,26,Rice,Urea + DAP + Lime
+Hydromorphic (Littoral),5.2,85,45,58,87,25,Oil Palm,Urea + DAP
+Alluvial (River valleys),6.4,72,41,46,78,25,Vegetables,Balanced NPK
+Alluvial (River valleys),6.2,68,39,44,76,24,Beans,Urea + DAP
+Lateritic (East),5.6,54,29,36,73,27,Yam,Urea + DAP
+Lateritic (East),5.8,57,31,38,71,26,Cassava,NPK 15?15?15
+Sandy soils (Far North),6.3,48,26,31,62,34,Onion,DAP + MOP
+Sandy soils (Far North),6.1,52,28,33,60,35,Millet,Urea + MOP
+Clay soils (Western Highlands),5.8,77,43,49,82,21,Maize,Urea + DAP + MOP
+Clay soils (Western Highlands),5.6,74,41,47,84,22,Beans,Urea + DAP
+Black soils (Mbam valley),6.5,81,49,54,79,26,Rice,Urea + MOP
+Black soils (Mbam valley),6.4,78,47,52,77,25,Vegetables,Balanced NPK
+Peaty soils (SW wetlands),5,73,39,46,90,24,Oil Palm,Urea + DAP + Lime
+Peaty soils (SW wetlands),5.1,76,41,48,88,23,Rice,Urea + DAP
+Volcanic Andosols (NW),5.4,86,42,53,82,23,"Banana, Cocoa",Urea + DAP + Lime
+Volcanic Andosols (NW),5.2,80,48,55,84,21,Tea,Urea + DAP
+Ferralsols (Centre),5.6,68,33,41,77,26,Pineapple,NPK 20?10?10
+Ferralsols (Centre),5.9,72,37,43,79,27,Groundnuts,Urea + MOP
+Savanna soils (North),6.7,60,28,34,66,32,Sesame,DAP + MOP
+Savanna soils (North),6.9,53,31,36,64,33,Sorghum,Urea + DAP
+Hydromorphic (Littoral),5.1,88,46,59,87,25,Sugarcane,Urea + DAP + Lime
+Hydromorphic (Littoral),5,91,44,62,89,26,Taro,Urea + DAP
+Alluvial (River valleys),6.2,66,38,47,76,25,Tomato,Balanced NPK
+Alluvial (River valleys),6.4,71,40,49,78,24,Pepper,Urea + DAP
+Lateritic (East),5.7,58,29,37,72,27,Plantain,NPK 15?15?15
+Lateritic (East),5.5,52,27,34,74,26,Cassava,Urea + DAP
+Sandy soils (Far North),6.3,47,25,32,61,35,Watermelon,DAP + MOP
+Sandy soils (Far North),6.2,50,28,30,63,34,Sorghum,Urea + MOP
+Clay soils (Western Highlands),5.8,76,44,51,83,22,Beans,Urea + DAP
+Clay soils (Western Highlands),5.6,73,42,48,81,21,Irish Potato,Urea + DAP + MOP
+Black soils (Mbam valley),6.5,79,48,53,78,26,Maize,Urea + MOP
+Black soils (Mbam valley),6.3,82,50,56,80,25,Vegetables,Balanced NPK
+Peaty soils (SW wetlands),5,75,40,47,89,24,Rice,Urea + DAP + Lime
+Peaty soils (SW wetlands),5.2,78,42,49,90,23,Oil Palm,Urea + DAP
+Volcanic Andosols (NW),5.3,84,43,51,82,22,Arabica Coffee,Urea + DAP + Lime
+Volcanic Andosols (NW),5.5,79,47,54,83,21,Cocoa,Urea + DAP
+Ferralsols (Centre),5.8,67,34,40,77,27,Cassava,NPK 15?15?15
+Ferralsols (Centre),5.6,71,38,42,78,26,Maize,Urea + DAP
+Savanna soils (North),6.9,59,29,35,66,32,Groundnuts,DAP + MOP
+Savanna soils (North),6.7,54,31,33,64,33,Sorghum,Urea + MOP
+Hydromorphic (Littoral),5,93,49,62,88,25,Rice,Urea + DAP + Lime
+Hydromorphic (Littoral),5.2,87,46,59,89,26,Oil Palm,Urea + DAP
+Alluvial (River valleys),6.3,69,39,44,76,25,Tomato,Balanced NPK
+Alluvial (River valleys),6.1,73,41,46,77,24,Beans,Urea + DAP
+Lateritic (East),5.7,56,30,37,72,27,Yam,Urea + DAP
+Lateritic (East),5.5,53,28,35,74,26,Plantain,NPK 20?10?10
+Sandy soils (Far North),6.2,46,24,31,61,35,Onion,DAP + MOP
+Sandy soils (Far North),6.4,51,27,33,63,34,Millet,Urea + MOP
+Clay soils (Western Highlands),5.7,78,45,50,82,22,Beans,Urea + DAP
+Clay soils (Western Highlands),5.9,75,43,48,81,21,Irish Potato,Urea + DAP + MOP
+Black soils (Mbam valley),6.4,80,49,55,79,26,Maize,Urea + MOP
+Black soils (Mbam valley),6.6,83,51,57,80,25,Vegetables,Balanced NPK
+Peaty soils (SW wetlands),5.1,74,40,46,89,24,Oil Palm,Urea + DAP + Lime
+Peaty soils (SW wetlands),5,77,42,48,90,23,Rice,Urea + DAP
+Volcanic Andosols (NW),5.4,83,45,52,82,22,Plantain,Urea + DAP + Lime
+Volcanic Andosols (NW),5.2,87,46,54,84,21,Arabica Coffee,Urea + DAP
+Ferralsols (Centre),5.7,66,34,41,77,27,Pineapple,NPK 20?10?10
+Ferralsols (Centre),5.9,72,37,44,78,26,Groundnuts,Urea + MOP
+Savanna soils (North),6.8,61,29,35,65,32,Cotton,DAP + MOP
+Savanna soils (North),6.6,55,30,34,67,33,Sorghum,Urea + DAP
+Hydromorphic (Littoral),5,92,48,60,89,25,Rice,Urea + DAP + Lime
+Hydromorphic (Littoral),5.1,86,45,59,87,26,Oil Palm,Urea + DAP
+Alluvial (River valleys),6.2,70,40,46,76,25,Tomato,Balanced NPK
+Alluvial (River valleys),6.4,74,42,48,78,24,Beans,Urea + DAP
+Lateritic (East),5.6,57,30,37,72,27,Yam,Urea + DAP
+Lateritic (East),5.5,53,28,35,74,26,Cassava,NPK 15?15?15
+Sandy soils (Far North),6.3,49,26,32,61,35,Onion,DAP + MOP
+Sandy soils (Far North),6.1,52,28,34,63,34,Millet,Urea + MOP
+Clay soils (Western Highlands),5.8,77,44,50,82,22,Beans,Urea + DAP
+Clay soils (Western Highlands),5.7,75,42,48,81,21,Irish Potato,Urea + DAP + MOP
+Black soils (Mbam valley),6.5,81,50,55,79,26,Maize,Urea + MOP
+Black soils (Mbam valley),6.4,79,48,53,80,25,Vegetables,Balanced NPK
+Peaty soils (SW wetlands),5,76,41,47,89,24,Oil Palm,Urea + DAP + Lime
+Peaty soils (SW wetlands),5.2,78,43,49,90,23,Rice,Urea + DAP
+Volcanic Andosols (NW),5.3,85,45,52,82,22,"Coffee, Cocoa, Plantain, Irish Potato",Urea + DAP + Lime
+Ferralsols (Centre),5.8,65,35,40,78,27,"Cassava, Maize, Groundnuts, Pineapple",NPK 15?15?15
+Savanna soils (North),6.7,55,30,35,65,32,"Sorghum, Millet, Cotton, Sesame",DAP + MOP
+Hydromorphic soils (Littoral),5.1,90,48,60,88,26,"Rice, Oil Palm, Sugarcane, Taro",Urea + DAP + Lime
+Alluvial soils (River valleys),6.3,70,40,45,77,25,"Vegetables, Beans, Tomato, Pepper",Balanced NPK
+Lateritic soils (East),5.6,55,28,35,72,27,"Cassava, Yam, Plantain",Urea + DAP
+Sandy soils (Far North),6.2,45,25,30,62,34,"Onion, Sorghum, Millet, Watermelon",DAP + MOP
+Clay soils (Western Highlands),5.7,75,42,48,83,22,"Maize, Beans, Irish Potato",Urea + DAP + MOP
+Black soils (Mbam valley),6.5,80,50,55,79,26,"Rice, Maize, Vegetables",Urea + MOP
+Peaty soils (SW wetlands),5,73,39,46,90,24,"Oil Palm, Rice",Urea + DAP + Lime
+Volcanic Andosols (NW),5.2,82,44,53,83,22,"Coffee, Cocoa, Banana, Irish Potato",Urea + DAP + Lime
+Volcanic Andosols (NW),5.4,88,46,55,81,21,"Tea, Plantain, Beans",Urea + DAP
+Ferralsols (Centre),5.7,64,33,40,78,27,"Cassava, Maize, Pineapple, Groundnuts",NPK 15?15?15
+Ferralsols (Centre),5.9,70,36,42,76,26,"Sweet Potato, Plantain, Papaya",Urea + DAP
+Savanna soils (North),6.8,58,30,35,65,32,"Sorghum, Millet, Cotton, Sesame",DAP + MOP
+Savanna soils (North),6.6,62,32,37,67,33,"Groundnuts, Maize, Cowpea",Urea + MOP
+Hydromorphic (Littoral),5,91,47,61,89,25,"Rice, Oil Palm, Sugarcane, Taro",Urea + DAP + Lime
+Hydromorphic (Littoral),5.1,85,45,58,87,26,"Plantain, Banana, Vegetables",Urea + DAP
+Alluvial (River valleys),6.3,72,41,46,77,25,"Tomato, Pepper, Beans, Maize",Balanced NPK
+Alluvial (River valleys),6.2,68,39,44,76,24,"Okra, Cabbage, Carrot",Urea + DAP
+Lateritic (East),5.6,55,29,36,73,27,"Cassava, Yam, Plantain, Cocoyam",Urea + DAP
+Lateritic (East),5.8,59,31,38,71,26,"Sweet Potato, Groundnuts",NPK 20?10?10
+Sandy soils (Far North),6.3,47,25,31,62,35,"Onion, Sorghum, Millet, Watermelon",DAP + MOP
+Sandy soils (Far North),6.1,52,28,33,60,34,"Sesame, Cowpea, Tomato",Urea + MOP
+Clay soils (Western Highlands),5.7,76,43,49,82,22,"Maize, Beans, Irish Potato, Vegetables",Urea + DAP + MOP
+Clay soils (Western Highlands),5.9,74,41,47,83,21,"Cabbage, Carrot, Tomato",Urea + DAP
+Black soils (Mbam valley),6.5,80,49,54,79,26,"Rice, Maize, Vegetables, Beans",Urea + MOP
+Black soils (Mbam valley),6.4,78,47,52,77,25,"Tomato, Pepper, Okra",Balanced NPK
+Peaty soils (SW wetlands),5,73,39,46,90,24,"Oil Palm, Rice, Banana",Urea + DAP + Lime
+Peaty soils (SW wetlands),5.2,75,41,48,88,23,"Taro, Plantain, Vegetables",Urea + DAP
+Volcanic Andosols (NW),5.3,84,46,52,82,22,"Coffee, Cocoa, Banana, Beans",Urea + DAP + Lime
+Volcanic Andosols (NW),5.5,81,44,55,83,21,"Irish Potato, Tea, Plantain",Urea + DAP
+Ferralsols (Centre),5.8,67,35,41,78,27,"Cassava, Maize, Pineapple, Papaya",NPK 15?15?15
+Ferralsols (Centre),5.6,72,38,43,76,26,"Groundnuts, Sweet Potato, Plantain",Urea + DAP
+Savanna soils (North),6.9,59,31,36,65,32,"Sorghum, Millet, Cotton, Sesame",DAP + MOP
+Savanna soils (North),6.7,54,29,34,64,33,"Groundnuts, Cowpea, Maize",Urea + MOP
+Hydromorphic (Littoral),5,92,48,61,89,25,"Rice, Oil Palm, Sugarcane, Taro",Urea + DAP + Lime
+Hydromorphic (Littoral),5.2,86,45,59,87,26,"Banana, Plantain, Vegetables",Urea + DAP
+Alluvial (River valleys),6.3,70,40,46,77,25,"Tomato, Pepper, Beans, Maize",Balanced NPK
+Alluvial (River valleys),6.1,74,42,48,76,24,"Okra, Cabbage, Carrot",Urea + DAP
+Lateritic (East),5.7,56,30,37,73,27,"Cassava, Yam, Plantain, Cocoyam",Urea + DAP
+Lateritic (East),5.5,53,28,35,74,26,"Sweet Potato, Groundnuts",NPK 20?10?10
+Sandy soils (Far North),6.2,47,25,31,62,35,"Onion, Sorghum, Millet, Watermelon",DAP + MOP
+Sandy soils (Far North),6.4,51,27,33,63,34,"Sesame, Cowpea, Tomato",Urea + MOP
+Clay soils (Western Highlands),5.8,76,43,49,82,22,"Maize, Beans, Irish Potato, Vegetables",Urea + DAP + MOP
+Clay soils (Western Highlands),5.9,74,41,47,83,21,"Cabbage, Carrot, Tomato",Urea + DAP
+Black soils (Mbam valley),6.5,80,49,54,79,26,"Rice, Maize, Vegetables, Beans",Urea + MOP
+Black soils (Mbam valley),6.4,78,47,52,77,25,"Tomato, Pepper, Okra",Balanced NPK
+Peaty soils (SW wetlands),5,73,39,46,90,24,"Oil Palm, Rice, Banana",Urea + DAP + Lime
+Peaty soils (SW wetlands),5.2,75,41,48,88,23,"Taro, Plantain, Vegetables",Urea + DAP
+Volcanic Andosols (NW),5.3,85,45,53,82,22,"Coffee, Cocoa, Banana, Beans",Urea + DAP + Lime
+Volcanic Andosols (NW),5.1,89,47,56,83,21,"Tea, Plantain, Irish Potato",Urea + DAP
+Ferralsols (Centre),5.8,68,36,42,78,27,"Cassava, Maize, Pineapple, Papaya",NPK 15?15?15
+Ferralsols (Centre),5.6,73,38,44,76,26,"Groundnuts, Sweet Potato, Plantain",Urea + DAP
+Savanna soils (North),6.9,60,31,36,65,32,"Sorghum, Millet, Cotton, Sesame",DAP + MOP
+Savanna soils (North),6.7,55,29,34,64,33,"Groundnuts, Cowpea, Maize",Urea + MOP
+Hydromorphic (Littoral),5,93,49,62,89,25,"Rice, Oil Palm, Sugarcane, Taro",Urea + DAP + Lime
+Hydromorphic (Littoral),5.2,87,46,59,87,26,"Banana, Plantain, Vegetables",Urea + DAP
+Alluvial (River valleys),6.3,71,41,47,77,25,"Tomato, Pepper, Beans, Maize",Balanced NPK
+Alluvial (River valleys),6.2,69,39,45,76,24,"Okra, Cabbage, Carrot",Urea + DAP
+Lateritic (East),5.7,57,30,37,73,27,"Cassava, Yam, Plantain, Cocoyam",Urea + DAP
+Lateritic (East),5.5,54,28,35,74,26,"Sweet Potato, Groundnuts",NPK 20?10?10
+Sandy soils (Far North),6.2,48,26,32,62,35,"Onion, Sorghum, Millet, Watermelon",DAP + MOP
+Sandy soils (Far North),6.4,52,28,34,63,34,"Sesame, Cowpea, Tomato",Urea + MOP
+Clay soils (Western Highlands),5.8,77,44,50,82,22,"Maize, Beans, Irish Potato, Vegetables",Urea + DAP + MOP
+Clay soils (Western Highlands),5.9,75,42,48,83,21,"Cabbage, Carrot, Tomato",Urea + DAP
+Black soils (Mbam valley),6.5,81,50,55,79,26,"Rice, Maize, Vegetables, Beans",Urea + MOP
+Black soils (Mbam valley),6.4,79,48,53,77,25,"Tomato, Pepper, Okra",Balanced NPK
+Peaty soils (SW wetlands),5,74,40,46,90,24,"Oil Palm, Rice, Banana",Urea + DAP + Lime
+Peaty soils (SW wetlands),5.2,76,42,48,88,23,"Taro, Plantain, Vegetables",Urea + DAP
+Volcanic Andosols (NW),5.4,83,46,52,82,22,"Coffee, Cocoa, Banana, Beans",Urea + DAP + Lime
+Volcanic Andosols (NW),5.2,88,48,55,81,21,"Tea, Plantain, Irish Potato",Urea + DAP
+Ferralsols (Centre),5.7,65,34,40,78,27,"Cassava, Maize, Pineapple, Papaya",NPK 15?15?15
+Ferralsols (Centre),5.9,71,37,43,76,26,"Groundnuts, Sweet Potato, Plantain",Urea + DAP
+Savanna soils (North),6.8,58,30,35,65,32,"Sorghum, Millet, Cotton, Sesame",DAP + MOP
+Savanna soils (North),6.6,62,32,37,67,33,"Groundnuts, Cowpea, Maize",Urea + MOP
+Hydromorphic (Littoral),5,92,48,61,89,25,"Rice, Oil Palm, Sugarcane, Taro",Urea + DAP + Lime
+Hydromorphic (Littoral),5.1,86,45,59,87,26,"Banana, Plantain, Vegetables",Urea + DAP
+Alluvial (River valleys),6.3,70,40,46,77,25,"Tomato, Pepper, Beans, Maize",Balanced NPK
+Alluvial (River valleys),6.2,68,39,44,76,24,"Okra, Cabbage, Carrot",Urea + DAP
+Lateritic (East),5.7,55,29,36,73,27,"Cassava, Yam, Plantain, Cocoyam",Urea + DAP
+Lateritic (East),5.5,53,28,35,74,26,"Sweet Potato, Groundnuts",NPK 20?10?10
+Sandy soils (Far North),6.2,47,25,31,62,35,"Onion, Sorghum, Millet, Watermelon",DAP + MOP
+Sandy soils (Far North),6.4,51,27,33,63,34,"Sesame, Cowpea, Tomato",Urea + MOP
+Clay soils (Western Highlands),5.8,76,43,49,82,22,"Maize, Beans, Irish Potato, Vegetables",Urea + DAP + MOP
+Clay soils (Western Highlands),5.9,74,41,47,83,21,"Cabbage, Carrot, Tomato",Urea + DAP
+Black soils (Mbam valley),6.5,80,49,54,79,26,"Rice, Maize, Vegetables, Beans",Urea + MOP
+Black soils (Mbam valley),6.4,78,47,52,77,25,"Tomato, Pepper, Okra",Balanced NPK
+Peaty soils (SW wetlands),5,73,39,46,90,24,"Oil Palm, Rice, Banana",Urea + DAP + Lime
+Peaty soils (SW wetlands),5.2,75,41,48,88,23,"Taro, Plantain, Vegetables",Urea + DAP
+Volcanic Andosols (NW),5.3,84,45,52,82,22,"Coffee, Cocoa, Banana, Mango",Urea + DAP + Lime
+Volcanic Andosols (NW),5.5,80,47,54,83,21,"Tea, Irish Potato, Citrus",Urea + DAP
+Ferralsols (Centre),5.8,67,36,41,78,27,"Cassava, Maize, Pineapple, Papaya",NPK 15?15?15
+Ferralsols (Centre),5.9,72,38,44,76,26,"Groundnuts, Soybeans, Sweet Potato",Urea + DAP
+Savanna soils (North),6.8,59,30,35,65,32,"Sorghum, Millet, Cotton, Sesame",DAP + MOP
+Savanna soils (North),6.6,62,32,37,67,33,"Groundnuts, Cowpea, Soybeans",Urea + MOP
+Hydromorphic (Littoral),5,92,48,61,89,25,"Rice, Oil Palm, Sugarcane, Taro",Urea + DAP + Lime
+Hydromorphic (Littoral),5.1,86,46,59,87,26,"Banana, Plantain, Vegetables, Mango",Urea + DAP
+Alluvial (River valleys),6.3,71,41,47,77,25,"Tomato, Pepper, Beans, Okra",Balanced NPK
+Alluvial (River valleys),6.2,69,39,45,76,24,"Cabbage, Carrot, Lettuce",Urea + DAP
+Lateritic (East),5.7,56,30,37,73,27,"Cassava, Yam, Plantain, Cocoyam",Urea + DAP
+Lateritic (East),5.5,54,28,35,74,26,"Sweet Potato, Soybeans, Groundnuts",NPK 20?10?10
+Sandy soils (Far North),6.2,47,25,31,62,35,"Onion, Sorghum, Millet, Watermelon",DAP + MOP
+Sandy soils (Far North),6.4,52,28,34,63,34,"Sesame, Cowpea, Tomato, Citrus",Urea + MOP
+Clay soils (Western Highlands),5.8,76,43,49,82,22,"Maize, Beans, Irish Potato, Vegetables",Urea + DAP + MOP
+Clay soils (Western Highlands),5.9,74,41,47,83,21,"Cabbage, Carrot, Lettuce, Spinach",Urea + DAP
+Black soils (Mbam valley),6.5,80,49,54,79,26,"Rice, Maize, Vegetables, Soybeans",Urea + MOP
+Black soils (Mbam valley),6.4,78,47,52,77,25,"Tomato, Pepper, Okra, Mango",Balanced NPK
+Peaty soils (SW wetlands),5,73,39,46,90,24,"Oil Palm, Rice, Banana, Citrus",Urea + DAP + Lime
+Peaty soils (SW wetlands),5.2,75,41,48,88,23,"Taro, Plantain, Vegetables, Mango",Urea + DAP
+Volcanic Andosols (NW),5.3,85,46,53,82,22,"Coffee, Cocoa, Banana, Mango",Urea + DAP + Lime
+Volcanic Andosols (NW),5.4,82,44,55,83,21,"Tea, Irish Potato, Citrus, Ginger",Urea + DAP
+Ferralsols (Centre),5.8,68,36,41,78,27,"Cassava, Maize, Pineapple, Papaya",NPK 15?15?15
+Ferralsols (Centre),5.9,73,38,44,76,26,"Groundnuts, Soybeans, Sweet Potato, Spinach",Urea + DAP
+Savanna soils (North),6.8,60,31,35,65,32,"Sorghum, Millet, Cotton, Sesame",DAP + MOP
+Savanna soils (North),6.7,56,29,34,64,33,"Groundnuts, Cowpea, Soybeans, Amaranth",Urea + MOP
+Hydromorphic (Littoral),5,93,49,62,89,25,"Rice, Oil Palm, Sugarcane, Taro",Urea + DAP + Lime
+Hydromorphic (Littoral),5.1,87,46,59,87,26,"Banana, Plantain, Vegetables, Mango",Urea + DAP
+Alluvial (River valleys),6.3,72,41,47,77,25,"Tomato, Pepper, Beans, Okra",Balanced NPK
+Alluvial (River valleys),6.2,70,39,45,76,24,"Cabbage, Carrot, Lettuce, Spinach",Urea + DAP
+Lateritic (East),5.7,57,30,37,73,27,"Cassava, Yam, Plantain, Cocoyam",Urea + DAP
+Lateritic (East),5.5,55,28,35,74,26,"Sweet Potato, Soybeans, Groundnuts, Citrus",NPK 20?10?10
+Sandy soils (Far North),6.2,48,26,32,62,35,"Onion, Sorghum, Millet, Watermelon",DAP + MOP
+Sandy soils (Far North),6.4,53,28,34,63,34,"Sesame, Cowpea, Tomato, Citrus",Urea + MOP
+Clay soils (Western Highlands),5.8,77,44,50,82,22,"Maize, Beans, Irish Potato, Vegetables",Urea + DAP + MOP
+Clay soils (Western Highlands),5.9,75,42,48,83,21,"Cabbage, Carrot, Lettuce, Spinach",Urea + DAP
+Black soils (Mbam valley),6.5,81,50,55,79,26,"Rice, Maize, Vegetables, Soybeans",Urea + MOP
+Black soils (Mbam valley),6.4,79,48,53,77,25,"Tomato, Pepper, Okra, Mango",Balanced NPK
+Peaty soils (SW wetlands),5,74,40,46,90,24,"Oil Palm, Rice, Banana, Citrus",Urea + DAP + Lime
+Peaty soils (SW wetlands),5.2,76,42,48,88,23,"Taro, Plantain, Vegetables, Mango",Urea + DAP
+Volcanic Andosols (NW),5.2,83,45,53,82,22,"Coffee, Cocoa, Banana, Mango",Urea + DAP + Lime
+Volcanic Andosols (NW),5.4,81,47,55,83,21,"Tea, Irish Potato, Citrus, Ginger",Urea + DAP
+Ferralsols (Centre),5.7,66,36,41,78,27,"Cassava, Maize, Pineapple, Papaya",NPK 15?15?15
+Ferralsols (Centre),5.9,72,38,44,76,26,"Groundnuts, Soybeans, Sweet Potato, Spinach",Urea + DAP
+Savanna soils (North),6.8,59,30,35,65,32,"Sorghum, Millet, Cotton, Sesame",DAP + MOP
+Savanna soils (North),6.6,63,32,37,67,33,"Groundnuts, Cowpea, Soybeans, Amaranth",Urea + MOP
+Hydromorphic (Littoral),5,92,48,61,89,25,"Rice, Oil Palm, Sugarcane, Taro",Urea + DAP + Lime
+Hydromorphic (Littoral),5.1,87,46,59,87,26,"Banana, Plantain, Vegetables, Mango",Urea + DAP
+Alluvial (River valleys),6.3,71,41,47,77,25,"Tomato, Pepper, Beans, Okra",Balanced NPK
+Alluvial (River valleys),6.2,69,39,45,76,24,"Cabbage, Carrot, Lettuce, Spinach",Urea + DAP
+Lateritic (East),5.7,56,30,37,73,27,"Cassava, Yam, Plantain, Cocoyam",Urea + DAP
+Lateritic (East),5.5,54,28,35,74,26,"Sweet Potato, Soybeans, Groundnuts, Citrus",NPK 20?10?10
+Sandy soils (Far North),6.2,48,26,32,62,35,"Onion, Sorghum, Millet, Watermelon",DAP + MOP
+Sandy soils (Far North),6.4,53,28,34,63,34,"Sesame, Cowpea, Tomato, Citrus",Urea + MOP
+Clay soils (Western Highlands),5.8,77,44,50,82,22,"Maize, Beans, Irish Potato, Vegetables",Urea + DAP + MOP
+Clay soils (Western Highlands),5.9,75,42,48,83,21,"Cabbage, Carrot, Lettuce, Spinach",Urea + DAP
+Black soils (Mbam valley),6.5,81,50,55,79,26,"Rice, Maize, Vegetables, Soybeans",Urea + MOP
+Black soils (Mbam valley),6.4,79,48,53,77,25,"Tomato, Pepper, Okra, Mango",Balanced NPK
+Peaty soils (SW wetlands),5,74,40,46,90,24,"Oil Palm, Rice, Banana, Citrus",Urea + DAP + Lime
+Peaty soils (SW wetlands),5.2,76,42,48,88,23,"Taro, Plantain, Vegetables, Mango",Urea + DAP
+Volcanic Andosols (NW),5.2,84,46,53,82,22,"Coffee, Cocoa, Banana, Guava",Urea + DAP + Lime
+Volcanic Andosols (NW),5.3,82,44,55,83,21,"Tea, Irish Potato, Citrus, Turmeric",Urea + DAP
+Ferralsols (Centre),5.7,67,36,41,78,27,"Cassava, Maize, Pineapple, Papaya",NPK 15?15?15
+Ferralsols (Centre),5.9,73,38,44,76,26,"Groundnuts, Soybeans, Sweet Potato, Kale",Urea + DAP
+Savanna soils (North),6.8,60,31,35,65,32,"Sorghum, Millet, Cotton, Sesame",DAP + MOP
+Savanna soils (North),6.6,63,32,37,67,33,"Groundnuts, Cowpea, Soybeans, Pigeon Pea",Urea + MOP
+Hydromorphic (Littoral),5,92,48,61,89,25,"Rice, Oil Palm, Sugarcane, Taro",Urea + DAP + Lime
+Hydromorphic (Littoral),5.1,87,46,59,87,26,"Banana, Plantain, Vegetables, Mango",Urea + DAP
+Alluvial (River valleys),6.3,71,41,47,77,25,"Tomato, Pepper, Beans, Okra",Balanced NPK
+Alluvial (River valleys),6.2,69,39,45,76,24,"Cabbage, Carrot, Lettuce, Spinach",Urea + DAP
+Lateritic (East),5.7,56,30,37,73,27,"Cassava, Yam, Plantain, Cocoyam",Urea + DAP
+Lateritic (East),5.5,54,28,35,74,26,"Sweet Potato, Soybeans, Groundnuts, Citrus",NPK 20?10?10
+Sandy soils (Far North),6.2,48,26,32,62,35,"Onion, Sorghum, Millet, Watermelon",DAP + MOP
+Sandy soils (Far North),6.4,53,28,34,63,34,"Sesame, Cowpea, Tomato, Guava",Urea + MOP
+Clay soils (Western Highlands),5.8,77,44,50,82,22,"Maize, Beans, Irish Potato, Vegetables",Urea + DAP + MOP
+Clay soils (Western Highlands),5.9,75,42,48,83,21,"Cabbage, Carrot, Lettuce, Amaranth",Urea + DAP
+Black soils (Mbam valley),6.5,81,50,55,79,26,"Rice, Maize, Vegetables, Soybeans",Urea + MOP
+Black soils (Mbam valley),6.4,79,48,53,77,25,"Tomato, Pepper, Okra, Mango",Balanced NPK
+Peaty soils (SW wetlands),5,74,40,46,90,24,"Oil Palm, Rice, Banana, Citrus",Urea + DAP + Lime
+Peaty soils (SW wetlands),5.2,76,42,48,88,23,"Taro, Plantain, Vegetables, Guava",Urea + DAP
+Volcanic Andosols (NW),5.2,85,46,53,82,22,"Coffee, Cocoa, Banana, Avocado",Urea + DAP + Lime
+Volcanic Andosols (NW),5.4,83,47,55,83,21,"Tea, Irish Potato, Citrus, Ginger",Urea + DAP
+Ferralsols (Centre),5.7,68,36,41,78,27,"Cassava, Maize, Pineapple, Papaya",NPK 15?15?15
+Ferralsols (Centre),5.9,74,38,44,76,26,"Groundnuts, Soybeans, Sweet Potato, Kale",Urea + DAP
+Savanna soils (North),6.8,60,31,35,65,32,"Sorghum, Millet, Cotton, Sesame",DAP + MOP
+Savanna soils (North),6.6,63,32,37,67,33,"Groundnuts, Cowpea, Soybeans, Pigeon Pea",Urea + MOP
+Hydromorphic (Littoral),5,93,48,61,89,25,"Rice, Oil Palm, Sugarcane, Taro",Urea + DAP + Lime
+Hydromorphic (Littoral),5.1,88,46,59,87,26,"Banana, Plantain, Vegetables, Mango",Urea + DAP
+Alluvial (River valleys),6.3,72,41,47,77,25,"Tomato, Pepper, Beans, Okra",Balanced NPK
+Alluvial (River valleys),6.2,70,39,45,76,24,"Cabbage, Carrot, Lettuce, Spinach",Urea + DAP
+Lateritic (East),5.7,57,30,37,73,27,"Cassava, Yam, Plantain, Cocoyam",Urea + DAP
+Lateritic (East),5.5,55,28,35,74,26,"Sweet Potato, Soybeans, Groundnuts, Citrus",NPK 20?10?10
+Sandy soils (Far North),6.2,48,26,32,62,35,"Onion, Sorghum, Millet, Watermelon",DAP + MOP
+Sandy soils (Far North),6.4,53,28,34,63,34,"Sesame, Cowpea, Tomato, Guava",Urea + MOP
+Clay soils (Western Highlands),5.8,77,44,50,82,22,"Maize, Beans, Irish Potato, Vegetables",Urea + DAP + MOP
+Clay soils (Western Highlands),5.9,75,42,48,83,21,"Cabbage, Carrot, Lettuce, Amaranth",Urea + DAP
+Black soils (Mbam valley),6.5,81,50,55,79,26,"Rice, Maize, Vegetables, Soybeans",Urea + MOP
+Black soils (Mbam valley),6.4,79,48,53,77,25,"Tomato, Pepper, Okra, Mango",Balanced NPK
+Peaty soils (SW wetlands),5,74,40,46,90,24,"Oil Palm, Rice, Banana, Citrus",Urea + DAP + Lime
+Peaty soils (SW wetlands),5.2,76,42,48,88,23,"Taro, Plantain, Vegetables, Guava",Urea + DAP
+Volcanic Andosols (NW),5.2,86,46,53,82,22,"Coffee, Cocoa, Banana, Avocado",Urea + DAP + Lime
+Volcanic Andosols (NW),5.4,82,47,55,83,21,"Tea, Irish Potato, Citrus, Ginger",Urea + DAP
+Ferralsols (Centre),5.7,68,36,41,78,27,"Cassava, Maize, Pineapple, Papaya",NPK 15?15?15
+Ferralsols (Centre),5.9,74,38,44,76,26,"Groundnuts, Soybeans, Sweet Potato, Kale",Urea + DAP
+Savanna soils (North),6.8,61,31,35,65,32,"Sorghum, Millet, Cotton, Sesame",DAP + MOP
+Savanna soils (North),6.6,64,32,37,67,33,"Groundnuts, Cowpea, Soybeans, Pigeon Pea",Urea + MOP
+Hydromorphic (Littoral),5,93,48,61,89,25,"Rice, Oil Palm, Sugarcane, Taro",Urea + DAP + Lime
+Hydromorphic (Littoral),5.1,88,46,59,87,26,"Banana, Plantain, Vegetables, Mango",Urea + DAP
+Alluvial (River valleys),6.3,72,41,47,77,25,"Tomato, Pepper, Beans, Okra",Balanced NPK
+Alluvial (River valleys),6.2,70,39,45,76,24,"Cabbage, Carrot, Lettuce, Spinach",Urea + DAP
+Lateritic (East),5.7,57,30,37,73,27,"Cassava, Yam, Plantain, Cocoyam",Urea + DAP
+Lateritic (East),5.5,55,28,35,74,26,"Sweet Potato, Soybeans, Groundnuts, Citrus",NPK 20?10?10
+Sandy soils (Far North),6.2,48,26,32,62,35,"Onion, Sorghum, Millet, Watermelon",DAP + MOP
+Sandy soils (Far North),6.4,53,28,34,63,34,"Sesame, Cowpea, Tomato, Guava",Urea + MOP
+Clay soils (Western Highlands),5.8,77,44,50,82,22,"Maize, Beans, Irish Potato, Vegetables",Urea + DAP + MOP
+Clay soils (Western Highlands),5.9,75,42,48,83,21,"Cabbage, Carrot, Lettuce, Amaranth",Urea + DAP
+Black soils (Mbam valley),6.5,81,50,55,79,26,"Rice, Maize, Vegetables, Soybeans",Urea + MOP
+Black soils (Mbam valley),6.4,79,48,53,77,25,"Tomato, Pepper, Okra, Mango",Balanced NPK
+Peaty soils (SW wetlands),5,74,40,46,90,24,"Oil Palm, Rice, Banana, Citrus",Urea + DAP + Lime
+Peaty soils (SW wetlands),5.2,76,42,48,88,23,"Taro, Plantain, Vegetables, Guava",Urea + DAP
+Volcanic Andosols (NW),5.2,86,46,53,82,22,"Coffee, Cocoa, Banana, Passion Fruit",Urea + DAP + Lime
+Volcanic Andosols (NW),5.4,83,47,55,83,21,"Tea, Irish Potato, Citrus, Ginger",Urea + DAP
+Ferralsols (Centre),5.7,68,36,41,78,27,"Cassava, Maize, Pineapple, Papaya",NPK 15?15?15
+Ferralsols (Centre),5.9,74,38,44,76,26,"Groundnuts, Soybeans, Sweet Potato, Kale",Urea + DAP
+Savanna soils (North),6.8,61,31,35,65,32,"Sorghum, Millet, Cotton, Sesame",DAP + MOP
+Savanna soils (North),6.6,64,32,37,67,33,"Groundnuts, Cowpea, Soybeans, Chickpeas",Urea + MOP
+Hydromorphic (Littoral),5,93,48,61,89,25,"Rice, Oil Palm, Sugarcane, Taro",Urea + DAP + Lime
+Hydromorphic (Littoral),5.1,88,46,59,87,26,"Banana, Plantain, Vegetables, Mango",Urea + DAP
+Alluvial (River valleys),6.3,72,41,47,77,25,"Tomato, Pepper, Beans, Okra",Balanced NPK
+Alluvial (River valleys),6.2,70,39,45,76,24,"Cabbage, Carrot, Lettuce, Spinach",Urea + DAP
+Lateritic (East),5.7,57,30,37,73,27,"Cassava, Yam, Plantain, Cocoyam",Urea + DAP
+Lateritic (East),5.5,55,28,35,74,26,"Sweet Potato, Soybeans, Groundnuts, Citrus",NPK 20?10?10
+Sandy soils (Far North),6.2,48,26,32,62,35,"Onion, Sorghum, Millet, Watermelon",DAP + MOP
+Sandy soils (Far North),6.4,53,28,34,63,34,"Sesame, Cowpea, Tomato, Guava",Urea + MOP
+Clay soils (Western Highlands),5.8,77,44,50,82,22,"Maize, Beans, Irish Potato, Vegetables",Urea + DAP + MOP
+Clay soils (Western Highlands),5.9,75,42,48,83,21,"Cabbage, Carrot, Lettuce, Amaranth",Urea + DAP
+Black soils (Mbam valley),6.5,81,50,55,79,26,"Rice, Maize, Vegetables, Soybeans",Urea + MOP
+Black soils (Mbam valley),6.4,79,48,53,77,25,"Tomato, Pepper, Okra, Mango",Balanced NPK
+Peaty soils (SW wetlands),5,74,40,46,90,24,"Oil Palm, Rice, Banana, Citrus",Urea + DAP + Lime
+Peaty soils (SW wetlands),5.2,76,42,48,88,23,"Taro, Plantain, Vegetables, Guava",Urea + DAP
+,,,,,,,,
+Volcanic Andosols (NW),5.2,86,46,53,82,22,"Coffee, Cocoa, Banana, Passion Fruit",Urea + DAP + Lime
+Volcanic Andosols (NW),5.4,83,47,55,83,21,"Tea, Irish Potato, Citrus, Ginger",Urea + DAP
+Ferralsols (Centre),5.7,68,36,41,78,27,"Cassava, Maize, Pineapple, Papaya",NPK 15?15?15
+Ferralsols (Centre),5.9,74,38,44,76,26,"Groundnuts, Soybeans, Sweet Potato, Kale",Urea + DAP
+Savanna soils (North),6.8,61,31,35,65,32,"Sorghum, Millet, Cotton, Sesame",DAP + MOP
+Savanna soils (North),6.6,64,32,37,67,33,"Groundnuts, Cowpea, Soybeans, Chickpeas",Urea + MOP
+Hydromorphic (Littoral),5,93,48,61,89,25,"Rice, Oil Palm, Sugarcane, Taro",Urea + DAP + Lime
+Hydromorphic (Littoral),5.1,88,46,59,87,26,"Banana, Plantain, Vegetables, Mango",Urea + DAP
+Alluvial (River valleys),6.3,72,41,47,77,25,"Tomato, Pepper, Beans, Okra",Balanced NPK
+Alluvial (River valleys),6.2,70,39,45,76,24,"Cabbage, Carrot, Lettuce, Spinach",Urea + DAP
+Lateritic (East),5.7,57,30,37,73,27,"Cassava, Yam, Plantain, Cocoyam",Urea + DAP
+Lateritic (East),5.5,55,28,35,74,26,"Sweet Potato, Soybeans, Groundnuts, Citrus",NPK 20?10?10
+Sandy soils (Far North),6.2,48,26,32,62,35,"Onion, Sorghum, Millet, Watermelon",DAP + MOP
+Sandy soils (Far North),6.4,53,28,34,63,34,"Sesame, Cowpea, Tomato, Guava",Urea + MOP
+Clay soils (Western Highlands),5.8,77,44,50,82,22,"Maize, Beans, Irish Potato, Vegetables",Urea + DAP + MOP
+Clay soils (Western Highlands),5.9,75,42,48,83,21,"Cabbage, Carrot, Lettuce, Amaranth",Urea + DAP
+Black soils (Mbam valley),6.5,81,50,55,79,26,"Rice, Maize, Vegetables, Soybeans",Urea + MOP
+Black soils (Mbam valley),6.4,79,48,53,77,25,"Tomato, Pepper, Okra, Mango",Balanced NPK
+Peaty soils (SW wetlands),5,74,40,46,90,24,"Oil Palm, Rice, Banana, Citrus",Urea + DAP + Lime
+Peaty soils (SW wetlands),5.2,76,42,48,88,23,"Taro, Plantain, Vegetables, Guava",Urea + DAP
+,,,,,,,,
+Volcanic Andosols (NW),5.1,84,45,52,82,22,"Coffee, Cocoa, Banana, Avocado",Urea + DAP + Lime
+Volcanic Andosols (NW),5.3,82,47,54,83,21,"Tea, Irish Potato, Citrus, Passion Fruit",Urea + DAP
+Ferralsols (Centre),5.8,67,36,41,78,27,"Cassava, Maize, Pineapple, Papaya",NPK 15?15?15
+Ferralsols (Centre),5.9,73,38,44,76,26,"Groundnuts, Soybeans, Sweet Potato, Kale",Urea + DAP
+Savanna soils (North),6.9,61,31,35,65,32,"Sorghum, Millet, Cotton, Sesame",DAP + MOP
+Savanna soils (North),6.7,64,32,37,67,33,"Groundnuts, Cowpea, Soybeans, Chickpeas",Urea + MOP
+Hydromorphic (Littoral),5,92,48,61,89,25,"Rice, Oil Palm, Sugarcane, Taro",Urea + DAP + Lime
+Hydromorphic (Littoral),5.2,88,46,59,87,26,"Banana, Plantain, Vegetables, Mango",Urea + DAP
+Alluvial (River valleys),6.3,72,41,47,77,25,"Tomato, Pepper, Beans, Okra",Balanced NPK
+Alluvial (River valleys),6.1,70,39,45,76,24,"Cabbage, Carrot, Lettuce, Spinach",Urea + DAP
+Lateritic (East),5.6,57,30,37,73,27,"Cassava, Yam, Plantain, Cocoyam",Urea + DAP
+Lateritic (East),5.5,55,28,35,74,26,"Sweet Potato, Soybeans, Groundnuts, Citrus",NPK 20?10?10
+Sandy soils (Far North),6.2,48,26,32,62,35,"Onion, Sorghum, Millet, Watermelon",DAP + MOP
+Sandy soils (Far North),6.4,53,28,34,63,34,"Sesame, Cowpea, Tomato, Guava",Urea + MOP
+Clay soils (Western Highlands),5.8,77,44,50,82,22,"Maize, Beans, Irish Potato, Vegetables",Urea + DAP + MOP
+Clay soils (Western Highlands),5.9,75,42,48,83,21,"Cabbage, Carrot, Lettuce, Amaranth",Urea + DAP
+Black soils (Mbam valley),6.5,81,50,55,79,26,"Rice, Maize, Vegetables, Soybeans",Urea + MOP
+Black soils (Mbam valley),6.4,79,48,53,77,25,"Tomato, Pepper, Okra, Mango",Balanced NPK
+Peaty soils (SW wetlands),5,74,40,46,90,24,"Oil Palm, Rice, Banana, Citrus",Urea + DAP + Lime
+Peaty soils (SW wetlands),5.2,76,42,48,88,23,"Taro, Plantain, Vegetables, Guava",Urea + DAP
+,,,,,,,,
+Volcanic Andosols (NW),5.1,85,46,52,82,22,"Coffee, Cocoa, Banana, Passion Fruit",Urea + DAP + Lime
+Volcanic Andosols (NW),5.3,83,47,54,83,21,"Tea, Irish Potato, Citrus, Ginger",Urea + DAP
+Ferralsols (Centre),5.8,68,36,41,78,27,"Cassava, Maize, Pineapple, Papaya",NPK 15?15?15
+Ferralsols (Centre),5.9,74,38,44,76,26,"Groundnuts, Soybeans, Sweet Potato, Kale",Urea + DAP
+Savanna soils (North),6.9,61,31,35,65,32,"Sorghum, Millet, Cotton, Sesame",DAP + MOP
+Savanna soils (North),6.7,64,32,37,67,33,"Groundnuts, Cowpea, Soybeans, Bambara Groundnut",Urea + MOP
+Hydromorphic (Littoral),5,92,48,61,89,25,"Rice, Oil Palm, Sugarcane, Taro",Urea + DAP + Lime
+Hydromorphic (Littoral),5.2,88,46,59,87,26,"Banana, Plantain, Vegetables, Mango",Urea + DAP
+Alluvial (River valleys),6.3,72,41,47,77,25,"Tomato, Pepper, Beans, Okra",Balanced NPK
+Alluvial (River valleys),6.1,70,39,45,76,24,"Cabbage, Carrot, Lettuce, Spinach",Urea + DAP
+Lateritic (East),5.6,57,30,37,73,27,"Cassava, Yam, Plantain, Cocoyam",Urea + DAP
+Lateritic (East),5.5,55,28,35,74,26,"Sweet Potato, Soybeans, Groundnuts, Citrus",NPK 20?10?10
+Sandy soils (Far North),6.2,48,26,32,62,35,"Onion, Sorghum, Millet, Watermelon",DAP + MOP
+Sandy soils (Far North),6.4,53,28,34,63,34,"Sesame, Cowpea, Tomato, Guava",Urea + MOP
+Clay soils (Western Highlands),5.8,77,44,50,82,22,"Maize, Beans, Irish Potato, Vegetables",Urea + DAP + MOP
+Clay soils (Western Highlands),5.9,75,42,48,83,21,"Cabbage, Carrot, Lettuce, Amaranth",Urea + DAP
+Black soils (Mbam valley),6.5,81,50,55,79,26,"Rice, Maize, Vegetables, Soybeans",Urea + MOP
+Black soils (Mbam valley),6.4,79,48,53,77,25,"Tomato, Pepper, Okra, Mango",Balanced NPK
+Peaty soils (SW wetlands),5,74,40,46,90,24,"Oil Palm, Rice, Banana, Citrus",Urea + DAP + Lime
+Peaty soils (SW wetlands),5.2,76,42,48,88,23,"Taro, Plantain, Vegetables, Guava",Urea + DAP
+,,,,,,,,
+Volcanic Andosols (NW),5.1,85,46,52,82,22,"Coffee, Cocoa, Banana, Passion Fruit",Urea + DAP + Lime
+Volcanic Andosols (NW),5.3,83,47,54,83,21,"Tea, Irish Potato, Citrus, Ginger",Urea + DAP
+Ferralsols (Centre),5.8,68,36,41,78,27,"Cassava, Maize, Pineapple, Papaya",NPK 15?15?15
+Ferralsols (Centre),5.9,74,38,44,76,26,"Groundnuts, Soybeans, Sweet Potato, Kale",Urea + DAP
+Savanna soils (North),6.9,61,31,35,65,32,"Sorghum, Millet, Cotton, Sesame",DAP + MOP
+Savanna soils (North),6.7,64,32,37,67,33,"Groundnuts, Cowpea, Soybeans, Bambara Groundnut",Urea + MOP
+Hydromorphic (Littoral),5,92,48,61,89,25,"Rice, Oil Palm, Sugarcane, Taro",Urea + DAP + Lime
+Hydromorphic (Littoral),5.2,88,46,59,87,26,"Banana, Plantain, Vegetables, Mango",Urea + DAP
+Alluvial (River valleys),6.3,72,41,47,77,25,"Tomato, Pepper, Beans, Okra",Balanced NPK
+Alluvial (River valleys),6.1,70,39,45,76,24,"Cabbage, Carrot, Lettuce, Spinach",Urea + DAP
+Lateritic (East),5.6,57,30,37,73,27,"Cassava, Yam, Plantain, Cocoyam",Urea + DAP
+Lateritic (East),5.5,55,28,35,74,26,"Sweet Potato, Soybeans, Groundnuts, Citrus",NPK 20?10?10
+Sandy soils (Far North),6.2,48,26,32,62,35,"Onion, Sorghum, Millet, Watermelon",DAP + MOP
+Sandy soils (Far North),6.4,53,28,34,63,34,"Sesame, Cowpea, Tomato, Guava",Urea + MOP
+Clay soils (Western Highlands),5.8,77,44,50,82,22,"Maize, Beans, Irish Potato, Vegetables",Urea + DAP + MOP
+Clay soils (Western Highlands),5.9,75,42,48,83,21,"Cabbage, Carrot, Lettuce, Amaranth",Urea + DAP
+Black soils (Mbam valley),6.5,81,50,55,79,26,"Rice, Maize, Vegetables, Soybeans",Urea + MOP
+Black soils (Mbam valley),6.4,79,48,53,77,25,"Tomato, Pepper, Okra, Mango",Balanced NPK
+Peaty soils (SW wetlands),5,74,40,46,90,24,"Oil Palm, Rice, Banana, Citrus",Urea + DAP + Lime
+Peaty soils (SW wetlands),5.2,76,42,48,88,23,"Taro, Plantain, Vegetables, Guava",Urea + DAP
+,,,,,,,,
+,,,,,,,,
+Volcanic Andosols (NW),5.2,84,45,52,82,22,"Coffee, Cocoa, Banana, Cashew",Urea + DAP + Lime
+Volcanic Andosols (NW),5.3,82,47,54,83,21,"Tea, Irish Potato, Citrus, Passion Fruit",Urea + DAP
+Ferralsols (Centre),5.8,67,36,41,78,27,"Cassava, Maize, Pineapple, Papaya",NPK 15?15?15
+Ferralsols (Centre),5.9,73,38,44,76,26,"Groundnuts, Soybeans, Sweet Potato, Kale",Urea + DAP
+Savanna soils (North),6.9,61,31,35,65,32,"Sorghum, Millet, Cotton, Sesame",DAP + MOP
+Savanna soils (North),6.7,64,32,37,67,33,"Groundnuts, Cowpea, Soybeans, Bambara Groundnut",Urea + MOP
+Hydromorphic (Littoral),5,92,48,61,89,25,"Rice, Oil Palm, Sugarcane, Taro",Urea + DAP + Lime
+Hydromorphic (Littoral),5.2,88,46,59,87,26,"Banana, Plantain, Vegetables, Mango",Urea + DAP
+Alluvial (River valleys),6.3,72,41,47,77,25,"Tomato, Pepper, Beans, Okra",Balanced NPK
+Alluvial (River valleys),6.1,70,39,45,76,24,"Cabbage, Carrot, Lettuce, Spinach",Urea + DAP
+Lateritic (East),5.6,57,30,37,73,27,"Cassava, Yam, Plantain, Cocoyam",Urea + DAP
+Lateritic (East),5.5,55,28,35,74,26,"Sweet Potato, Soybeans, Groundnuts, Citrus",NPK 20?10?10
+Sandy soils (Far North),6.2,48,26,32,62,35,"Onion, Sorghum, Millet, Watermelon",DAP + MOP
+Sandy soils (Far North),6.4,53,28,34,63,34,"Sesame, Cowpea, Tomato, Guava",Urea + MOP
+Clay soils (Western Highlands),5.8,77,44,50,82,22,"Maize, Beans, Irish Potato, Vegetables",Urea + DAP + MOP
+Clay soils (Western Highlands),5.9,75,42,48,83,21,"Cabbage, Carrot, Lettuce, Amaranth",Urea + DAP
+Black soils (Mbam valley),6.5,81,50,55,79,26,"Rice, Maize, Vegetables, Soybeans",Urea + MOP
+Black soils (Mbam valley),6.4,79,48,53,77,25,"Tomato, Pepper, Okra, Mango",Balanced NPK
+Peaty soils (SW wetlands),5,74,40,46,90,24,"Oil Palm, Rice, Banana, Citrus",Urea + DAP + Lime
+Peaty soils (SW wetlands),5.2,76,42,48,88,23,"Taro, Plantain, Vegetables, Guava",Urea + DAP
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Volcanic Andosols (NW),5.2,84,45,52,82,22,"Coffee, Cocoa, Banana, Soursop",Urea + DAP + Lime
+Volcanic Andosols (NW),5.3,82,47,54,83,21,"Tea, Irish Potato, Citrus, Passion Fruit",Urea + DAP
+Ferralsols (Centre),5.8,67,36,41,78,27,"Cassava, Maize, Pineapple, Papaya",NPK 15?15?15
+Ferralsols (Centre),5.9,73,38,44,76,26,"Groundnuts, Soybeans, Sweet Potato, Kale",Urea + DAP
+Savanna soils (North),6.9,61,31,35,65,32,"Sorghum, Millet, Cotton, Sesame",DAP + MOP
+Savanna soils (North),6.7,64,32,37,67,33,"Groundnuts, Cowpea, Soybeans, Bambara Groundnut",Urea + MOP
+Hydromorphic (Littoral),5,92,48,61,89,25,"Rice, Oil Palm, Sugarcane, Taro",Urea + DAP + Lime
+Hydromorphic (Littoral),5.2,88,46,59,87,26,"Banana, Plantain, Vegetables, Mango",Urea + DAP
+Alluvial (River valleys),6.3,72,41,47,77,25,"Tomato, Pepper, Beans, Okra",Balanced NPK
+Alluvial (River valleys),6.1,70,39,45,76,24,"Cabbage, Carrot, Lettuce, Spinach",Urea + DAP
+Lateritic (East),5.6,57,30,37,73,27,"Cassava, Yam, Plantain, Cocoyam",Urea + DAP
+Lateritic (East),5.5,55,28,35,74,26,"Sweet Potato, Soybeans, Groundnuts, Citrus",NPK 20?10?10
+Sandy soils (Far North),6.2,48,26,32,62,35,"Onion, Sorghum, Millet, Watermelon",DAP + MOP
+Sandy soils (Far North),6.4,53,28,34,63,34,"Sesame, Cowpea, Tomato, Guava",Urea + MOP
+Clay soils (Western Highlands),5.8,77,44,50,82,22,"Maize, Beans, Irish Potato, Vegetables",Urea + DAP + MOP
+Clay soils (Western Highlands),5.9,75,42,48,83,21,"Cabbage, Carrot, Lettuce, Amaranth",Urea + DAP
+Black soils (Mbam valley),6.5,81,50,55,79,26,"Rice, Maize, Vegetables, Soybeans",Urea + MOP
+Black soils (Mbam valley),6.4,79,48,53,77,25,"Tomato, Pepper, Okra, Mango",Balanced NPK
+Peaty soils (SW wetlands),5,74,40,46,90,24,"Oil Palm, Rice, Banana, Citrus",Urea + DAP + Lime
+Peaty soils (SW wetlands),5.2,76,42,48,88,23,"Taro, Plantain, Vegetables, Guava",Urea + DAP
+,,,,,,,,
+Volcanic Andosols (NW),5.2,84,45,52,82,22,"Coffee, Cocoa, Banana, Starfruit",Urea + DAP + Lime
+Volcanic Andosols (NW),5.3,82,47,54,83,21,"Tea, Irish Potato, Citrus, Passion Fruit",Urea + DAP
+Ferralsols (Centre),5.8,67,36,41,78,27,"Cassava, Maize, Pineapple, Papaya",NPK 15?15?15
+Ferralsols (Centre),5.9,73,38,44,76,26,"Groundnuts, Soybeans, Sweet Potato, Kale",Urea + DAP
+Savanna soils (North),6.9,61,31,35,65,32,"Sorghum, Millet, Cotton, Sesame",DAP + MOP
+Savanna soils (North),6.7,64,32,37,67,33,"Groundnuts, Cowpea, Soybeans, Lima Beans",Urea + MOP
+Hydromorphic (Littoral),5,92,48,61,89,25,"Rice, Oil Palm, Sugarcane, Taro",Urea + DAP + Lime
+Hydromorphic (Littoral),5.2,88,46,59,87,26,"Banana, Plantain, Vegetables, Mango",Urea + DAP
+Alluvial (River valleys),6.3,72,41,47,77,25,"Tomato, Pepper, Beans, Okra",Balanced NPK
+Alluvial (River valleys),6.1,70,39,45,76,24,"Cabbage, Carrot, Lettuce, Spinach",Urea + DAP
+Lateritic (East),5.6,57,30,37,73,27,"Cassava, Yam, Plantain, Cocoyam",Urea + DAP
+Lateritic (East),5.5,55,28,35,74,26,"Sweet Potato, Soybeans, Groundnuts, Citrus",NPK 20?10?10
+Sandy soils (Far North),6.2,48,26,32,62,35,"Onion, Sorghum, Millet, Watermelon",DAP + MOP
+Sandy soils (Far North),6.4,53,28,34,63,34,"Sesame, Cowpea, Tomato, Guava",Urea + MOP
+Clay soils (Western Highlands),5.8,77,44,50,82,22,"Maize, Beans, Irish Potato, Vegetables",Urea + DAP + MOP
+Clay soils (Western Highlands),5.9,75,42,48,83,21,"Cabbage, Carrot, Lettuce, Amaranth",Urea + DAP
+Black soils (Mbam valley),6.5,81,50,55,79,26,"Rice, Maize, Vegetables, Soybeans",Urea + MOP
+Black soils (Mbam valley),6.4,79,48,53,77,25,"Tomato, Pepper, Okra, Mango",Balanced NPK
+Peaty soils (SW wetlands),5,74,40,46,90,24,"Oil Palm, Rice, Banana, Citrus",Urea + DAP + Lime
+Peaty soils (SW wetlands),5.2,76,42,48,88,23,"Taro, Plantain, Vegetables, Guava",Urea + DAP
+,,,,,,,,
+Volcanic Andosols (NW),5.1,84,45,52,82,22,"Coffee, Cocoa, Banana, Jackfruit",Urea + DAP + Lime
+Volcanic Andosols (NW),5.3,82,47,54,83,21,"Tea, Irish Potato, Citrus, Passion Fruit",Urea + DAP
+Ferralsols (Centre),5.8,67,36,41,78,27,"Cassava, Maize, Pineapple, Papaya",NPK 15?15?15
+Ferralsols (Centre),5.9,73,38,44,76,26,"Groundnuts, Soybeans, Sweet Potato, Kale",Urea + DAP
+Savanna soils (North),6.9,61,31,35,65,32,"Sorghum, Millet, Cotton, Sesame",DAP + MOP
+Savanna soils (North),6.7,64,32,37,67,33,"Groundnuts, Cowpea, Soybeans, Broad Beans",Urea + MOP
+Hydromorphic (Littoral),5,92,48,61,89,25,"Rice, Oil Palm, Sugarcane, Taro",Urea + DAP + Lime
+Hydromorphic (Littoral),5.2,88,46,59,87,26,"Banana, Plantain, Vegetables, Mango",Urea + DAP
+Alluvial (River valleys),6.3,72,41,47,77,25,"Tomato, Pepper, Beans, Okra",Balanced NPK
+Alluvial (River valleys),6.1,70,39,45,76,24,"Cabbage, Carrot, Lettuce, Spinach",Urea + DAP
+Lateritic (East),5.6,57,30,37,73,27,"Cassava, Yam, Plantain, Cocoyam",Urea + DAP
+Lateritic (East),5.5,55,28,35,74,26,"Sweet Potato, Soybeans, Groundnuts, Citrus",NPK 20?10?10
+Sandy soils (Far North),6.2,48,26,32,62,35,"Onion, Sorghum, Millet, Watermelon",DAP + MOP
+Sandy soils (Far North),6.4,53,28,34,63,34,"Sesame, Cowpea, Tomato, Guava",Urea + MOP
+Clay soils (Western Highlands),5.8,77,44,50,82,22,"Maize, Beans, Irish Potato, Vegetables",Urea + DAP + MOP
+Clay soils (Western Highlands),5.9,75,42,48,83,21,"Cabbage, Carrot, Lettuce, Amaranth",Urea + DAP
+Black soils (Mbam valley),6.5,81,50,55,79,26,"Rice, Maize, Vegetables, Soybeans",Urea + MOP
+Black soils (Mbam valley),6.4,79,48,53,77,25,"Tomato, Pepper, Okra, Mango",Balanced NPK
+Peaty soils (SW wetlands),5,74,40,46,90,24,"Oil Palm, Rice, Banana, Citrus",Urea + DAP + Lime
+Peaty soils (SW wetlands),5.2,76,42,48,88,23,"Taro, Plantain, Vegetables, Guava",Urea + DAP
+,,,,,,,,
+Volcanic Andosols (NW),5.1,84,45,52,82,22,"Coffee, Cocoa, Banana, Pawpaw",Urea + DAP + Lime
+Volcanic Andosols (NW),5.3,82,47,54,83,21,"Tea, Irish Potato, Citrus, Passion Fruit",Urea + DAP
+Ferralsols (Centre),5.8,67,36,41,78,27,"Cassava, Maize, Pineapple, Papaya",NPK 15?15?15
+Ferralsols (Centre),5.9,73,38,44,76,26,"Groundnuts, Soybeans, Sweet Potato, Kale",Urea + DAP
+Savanna soils (North),6.9,61,31,35,65,32,"Sorghum, Millet, Cotton, Sesame",DAP + MOP
+Savanna soils (North),6.7,64,32,37,67,33,"Groundnuts, Cowpea, Soybeans, Green Peas",Urea + MOP
+Hydromorphic (Littoral),5,92,48,61,89,25,"Rice, Oil Palm, Sugarcane, Taro",Urea + DAP + Lime
+Hydromorphic (Littoral),5.2,88,46,59,87,26,"Banana, Plantain, Vegetables, Mango",Urea + DAP
+Alluvial (River valleys),6.3,72,41,47,77,25,"Tomato, Pepper, Beans, Okra",Balanced NPK
+Alluvial (River valleys),6.1,70,39,45,76,24,"Cabbage, Carrot, Lettuce, Spinach",Urea + DAP
+Lateritic (East),5.6,57,30,37,73,27,"Cassava, Yam, Plantain, Cocoyam",Urea + DAP
+Lateritic (East),5.5,55,28,35,74,26,"Sweet Potato, Soybeans, Groundnuts, Citrus",NPK 20?10?10
+Sandy soils (Far North),6.2,48,26,32,62,35,"Onion, Sorghum, Millet, Watermelon",DAP + MOP
+Sandy soils (Far North),6.4,53,28,34,63,34,"Sesame, Cowpea, Tomato, Guava",Urea + MOP
+Clay soils (Western Highlands),5.8,77,44,50,82,22,"Maize, Beans, Irish Potato, Vegetables",Urea + DAP + MOP
+Clay soils (Western Highlands),5.9,75,42,48,83,21,"Cabbage, Carrot, Lettuce, Amaranth",Urea + DAP
+Black soils (Mbam valley),6.5,81,50,55,79,26,"Rice, Maize, Vegetables, Soybeans",Urea + MOP
+Black soils (Mbam valley),6.4,79,48,53,77,25,"Tomato, Pepper, Okra, Mango",Balanced NPK
+Peaty soils (SW wetlands),5,74,40,46,90,24,"Oil Palm, Rice, Banana, Citrus",Urea + DAP + Lime
+Peaty soils (SW wetlands),5.2,76,42,48,88,23,"Taro, Plantain, Vegetables, Guava",Urea + DAP
