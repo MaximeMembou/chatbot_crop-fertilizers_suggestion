@@ -4,4 +4,7 @@ joblib
 numpy
 scikit-learn
 groq
-python-dotenvs
+python-dotenv
+httpx
+pydantic
+pandas
