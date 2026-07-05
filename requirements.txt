@@ -2,7 +2,7 @@ fastapi
 uvicorn
 joblib
 numpy
-scikit-learn
+scikit-learn==1.8.0
 groq
 python-dotenv
 httpx
